@@ -1,4 +1,4 @@
-azure_storage_connectionstring: "DefaultEndpointsProtocol=https;AccountName=ktodb;AccountKey=31EKKSpHDfxeQ7axIlX/837bb+8JLBtaNk0RGMmp7lkayV1xaQ14CYy3cuMDT39DX+kwR+YdXe0lop37T84X0A==;EndpointSuffix=core.windows.net"
+azure_storage_connectionstring: secrets
 
 picture_container_name: "pictures"
 
